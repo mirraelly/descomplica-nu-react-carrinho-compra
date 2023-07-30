@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nome": "Feijoada",
+        "valor": 50.00,
+        "descricao": "Tradicional, feita com baicon, calabresa, bem salgadinha."
+    },
+    {
+        "id": 2,
+        "nome": "Lasanha",
+        "valor": 45.00,
+        "descricao": "Com molho caseiro bolonhesa e quatro queijos."
+    }
+]
