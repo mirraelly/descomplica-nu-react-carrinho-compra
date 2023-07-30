@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/descomplica-nu-react-carrinho-compra/static/css/main.2796719c.css",
-    "main.js": "/descomplica-nu-react-carrinho-compra/static/js/main.1e7bdee1.js",
-    "static/js/787.691f90a2.chunk.js": "/descomplica-nu-react-carrinho-compra/static/js/787.691f90a2.chunk.js",
-    "static/media/logo.svg": "/descomplica-nu-react-carrinho-compra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/descomplica-nu-react-carrinho-compra/index.html",
-    "main.2796719c.css.map": "/descomplica-nu-react-carrinho-compra/static/css/main.2796719c.css.map",
-    "main.1e7bdee1.js.map": "/descomplica-nu-react-carrinho-compra/static/js/main.1e7bdee1.js.map",
-    "787.691f90a2.chunk.js.map": "/descomplica-nu-react-carrinho-compra/static/js/787.691f90a2.chunk.js.map"
+    "main.css": "./static/css/main.2796719c.css",
+    "main.js": "./static/js/main.5f67837a.js",
+    "static/js/787.691f90a2.chunk.js": "./static/js/787.691f90a2.chunk.js",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.2796719c.css.map": "./static/css/main.2796719c.css.map",
+    "main.5f67837a.js.map": "./static/js/main.5f67837a.js.map",
+    "787.691f90a2.chunk.js.map": "./static/js/787.691f90a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2796719c.css",
-    "static/js/main.1e7bdee1.js"
+    "static/js/main.5f67837a.js"
   ]
 }
